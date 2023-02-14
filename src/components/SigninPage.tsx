@@ -61,7 +61,7 @@ const SigninPage: React.FC = () => {
             {/* LOGO END */}
 
             <Typography color="white" fontWeight="bold" mt={7} mb={3}>
-              Sign in to dashboard
+              EHRS - LogIn Dashboard
             </Typography>
           </Box>
 
@@ -74,11 +74,6 @@ const SigninPage: React.FC = () => {
           <CustomInput
             label="Password"
             placeholder="Enter your password..."
-            isIconActive={true}
-          />
-          <CustomInput
-            label="MFA Code"
-            placeholder="Enter your code..."
             isIconActive={true}
           />
           {/* INPUT END */}

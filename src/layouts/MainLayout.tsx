@@ -1,7 +1,7 @@
 import { Box, ThemeProvider } from "@mui/material";
 import { theme } from "../theme";
 
-const bgImage = require("../assets/bg.png");
+const bgImage = require("../assets/bg.jpg");
 
 const MainLayout: React.FC<{ children: JSX.Element | JSX.Element[] }> = ({
   children,
