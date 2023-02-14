@@ -1,5 +1,3 @@
-<h1 align='center' style="font-size:5rem"><b>Risponsive Glassmorphism Login Page</b></h1>
-
 </div>
 <br><br><br>
 <h2 align='center'>
